@@ -1,2 +1,2 @@
-![banner](banner.png)
+![banner](Banner.png)
 ## Hi
